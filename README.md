@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently pursuing my B.Tech in SCE in Nirma University.<br>Learning and Exploring new Technologies.<br><br><br>
+I'm currently pursuing my B.Tech in CSE in Nirma University.<br>Learning and Exploring new Technologies.<br><br><br>
 
 
 ## 🌐 Socials:
