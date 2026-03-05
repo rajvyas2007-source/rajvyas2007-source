@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Raj Vyas</h1>
-<h3 align="center">B.Tech CSE Student | Nirma University | Aspiring Software Developer</h3>
+<h3 align="center">B.Tech CSE Student | Nirma University | Learning and Exploring</h3>
 
 ---
 
